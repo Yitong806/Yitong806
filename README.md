@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I’m Yitong WANG
 
-<!--
-**Yitong806/Yitong806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A PG student of [SUSTech](https://sustech.edu.cn/)(Southern University of Science and Technology)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📍 Located in Shenzhen, China
+- 💻 Currently exploring **Large Language Models (LLMs)** & **AI Agents**
+- 🌱 Learning: LLM fine-tuning, RAG pipelines, Agent frameworks (LangGraph / AutoGen / CrewAI)
+- 🎯 Goal: Build useful AI applications that solve real-world problems & contribute to open-source AI community
+- 🤝 Open to collaboration on LLM/Agent projects, research, or hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, Java, C/C++, SQL, JS
+- **LLM & Agent Frameworks:** LangChain, LangGraph, AutoGen
+- **ML / DL Libraries:** PyTorch, Transformers, vLLM, Hugging Face Accelerate  
+- **Tools:** Git, Docker, GitHub Actions, Postman, Jupyter Notebook, VSCode  
+- **Databases:** MySQL, PostgreSQL, Redis, Milvus, Neo4j
+- **Cloud & Infra:** AWS (EC2/S3), Linux, CUDA, Docker Compose
+
+## 📫 How to reach me
+- 📧 Email: [yitong.wang.ieee@gmail.com](mailto:yitong.wang.ieee@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yitong-wang-8091803b2](https://www.linkedin.com/in/yitong-wang-8091803b2/)
+
+*Updated regularly • Last updated: September 2026*
