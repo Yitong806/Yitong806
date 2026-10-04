@@ -15,7 +15,6 @@
 - **ML / DL Libraries:** PyTorch, Transformers, vLLM, Hugging Face Accelerate  
 - **Tools:** Git, Docker, GitHub Actions, Postman, Jupyter Notebook, VSCode  
 - **Databases:** MySQL, PostgreSQL, Redis, Milvus, Neo4j
-- **Cloud & Infra:** AWS (EC2/S3), Linux, CUDA, Docker Compose
 
 ## 📫 How to reach me
 - 📧 Email: [yitong.wang.ieee@gmail.com](mailto:yitong.wang.ieee@gmail.com)
