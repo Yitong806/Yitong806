@@ -20,4 +20,7 @@
 - 📧 Email: [yitong.wang.ieee@gmail.com](mailto:yitong.wang.ieee@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yitong-wang-8091803b2](https://www.linkedin.com/in/yitong-wang-8091803b2/)
 
+## 📄 Resume
+[Download CV (PDF)](./Rezume_Yitong_WANG.pdf)
+
 *Updated regularly • Last updated: September 2026*
